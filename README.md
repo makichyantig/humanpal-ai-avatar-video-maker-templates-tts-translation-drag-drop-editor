@@ -74,31 +74,31 @@ It bridges creativity and technology, making video creation **accessible, afford
     <tbody>
         <tr>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/cb9f37dc-6823-4952-aad4-11af5f9ab20d" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src=" " controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <video src=" " controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-            <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/d4b90a8a-0957-4aa3-94e9-89193ba72180" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/0c273489-c0b6-4d54-aa40-b2c2ba7fc050" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/2d10a6e2-088d-4f34-a7d0-dcd4580b596b" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/badc9657-a6f9-4d77-a40b-b187c402d7d7" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
@@ -109,9 +109,21 @@ It bridges creativity and technology, making video creation **accessible, afford
 
 <table>
     <tbody>
+       <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/448546da-6740-4b65-9824-3237ae467c80" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/d01bfe34-c7f7-4ade-9173-90a66a41d59b" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/4f8fd5ec-9f9e-4ad6-9cdd-711d1e145ab9" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
